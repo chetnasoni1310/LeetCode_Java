@@ -1,0 +1,1 @@
+Infinte array wale ques mai user se input lene pe index out of bound wala exception aa rha h 
